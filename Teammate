@@ -1,0 +1,17 @@
+
+//This will be the main class
+
+import java.awt.*;
+import java.util.*;
+
+import javax.swing.*;
+
+public class Teammate {
+	
+	public static void main (String[] Args) {
+		
+		System.out.println("This will be the basis for the Teammate App!");
+		
+	}
+
+}
